@@ -143,7 +143,6 @@ productList.push({
     price: 245,
     image: 'https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1637760158-51FBPNbMEVL._SL500_.jpg?crop=1xw:1xh;center,top&resize=980:*'
 });
-
 productList.push({
     name: 'Bike',
     price: 120,
@@ -194,7 +193,6 @@ productList.push({
     price: 245,
     image: 'https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1637760158-51FBPNbMEVL._SL500_.jpg?crop=1xw:1xh;center,top&resize=980:*'
 });
-
 productList.push({
     name: 'Bike',
     price: 120,
